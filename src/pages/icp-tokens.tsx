@@ -84,7 +84,7 @@ function TokenHolders(): JSX.Element {
     <QueryClientProvider client={queryClient}>
       <Layout
         title="ICP Tokens"
-        description="ICP, the native utility token of the Internet Computer powers computation, staking, voting, governance and ownership."
+        description="ICP, the native utility token of the Internet Computer, powers computation, staking, voting, governance and ownership."
         editPath={`https://github.com/dfinity/portal/edit/master/${__filename}`}
       >
         <main className="overflow-hidden">
