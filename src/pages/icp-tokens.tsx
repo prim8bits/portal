@@ -243,7 +243,7 @@ function TokenHolders(): JSX.Element {
                   ${(cryptoPrice.icp * 0.0001).toFixed(5)}
                 </span>
                 <figcaption className="tw-paragraph md:tw-lead-sm">
-                  Ledger TX Fee
+                  Ledger TX fee
                 </figcaption>
               </motion.figure>
               <motion.figure
