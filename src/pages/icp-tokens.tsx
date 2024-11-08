@@ -159,7 +159,7 @@ function TokenHolders(): JSX.Element {
                 className="tw-paragraph md:tw-lead-sm text-black/60 mb-0"
                 variants={transitions.item}
               >
-                The ICP token implements the ICRC-1 standard.
+                The ICP token is compatible with the ICRC-1 standard.
               </motion.p>
             </div>
             <div className="flex flex-col gap-5 md:flex-row md:w-8/10">
