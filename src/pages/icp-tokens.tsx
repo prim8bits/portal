@@ -741,7 +741,7 @@ function TokenHolders(): JSX.Element {
                     href="https://forum.dfinity.org"
                     className="link-primary link-with-icon"
                   >
-                    Share your ideas on the Forum
+                    Share your ideas on the forum
                     <LinkArrowUpRight />
                   </Link>
                 </p>
